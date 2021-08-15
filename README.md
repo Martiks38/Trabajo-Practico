@@ -1,2 +1,2 @@
 # Trabajo-Practico
-Por medio de un archivo .txt generado por los registro de los vehículos que ingresaron y salieron de la autopista.
+Por medio de un archivo prueba.txt generado por un peaje automático. Dicho archivo consta de la matrícula, el kilómetro de ingreso/egreso de la autopista, la hora en que se produjo el registro y si ingreso o salió. Genera una lista de las matrículas se las ordena alfanuméricamente. A continuación, genera una lista con la matrícula y lo que debe pagar cada uno correspondiente al finalizar el mes, esta lista esta conformada por las matrículas que cumplan la condición de que hayan entrado y luego salido de la autopista.
